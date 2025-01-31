@@ -1,99 +1,23 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+## 📒 Descrição
+Podcast intitulado “Minutos Poéticos”, que tem por objetivo transmitir conhecimentos, enaltecer a cultura e inspirar a todos os ouvintes. Os amantes das artes e poesia podem se deleitar, mesmo em meio a rotina caótica, visto que são literalmente alguns minutos de apresentação, mas instantes transformadores. O episódio desenvolvido foi sobre a “Poesia Concreta no Brasil”.
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
+## 🤖 Tecnologias Utilizadas 
+•	IA Generativa CHAT META AI LLAMA 3.2 (WHATSAPP) – Roteiro e conteúdos
+•	IA Generativa ELEVENLABS – Vozes
+•	CAPCUT – Montagem e edição
+•	YOUTUBE – Vinheta e música de fundo
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+## 🧐 Processo de Criação
+Pensei em criar um podcast que se debruçasse sobre as artes, dedicado a literatura e logo me veio à mente a ideia de uma conversa poética, visto que sou poeta e esta temática é tão latente em minha vida (e para muitos que conheci em minha jornada). Solicitei ao CHAT META AI LLAMA 3.2 (WHATSAPP) que criasse um nome para este podcast. As sugestões apresentadas foram excelentes, criativas e justificadas (a IA descreveu as razões pelas quais cada título foi indicado). Todavia, acabei não optando por nenhuma das sugestões, mas criei um nome interessante após a conclusão da parte textual e da vocalização do material via ELEVENLABS. Visto que o podcast teve uma duração curta, nada mais justo que se denominar “Minutos Poéticos”.
+A escolha do tópico abordado no podcast foi uma concepção pessoal pois, admiro a o Movimento Concretista Brasileiro. Indiquei ao CHAT META AI LLAMA 3.2 (WHATSAPP) que apresentasse dados sobre o assunto e, a partir deste conteúdo, produzisse as falas do podcast. O texto originado era de boa qualidade, mas um tanto quanto repetitivo. Deste modo, o revisei e fiz as alterações pertinentes, para que ficasse mais leve, mas ao mesmo tempo mais elucidativo e com a inclusão de “detalhes” importantes. 
+Após a geração das vozes (da apresentadora do podcast e da leitora do manifesto e da poesia), editei as mesmas na ferramenta CAPCUT, inserindo também uma vinheta para o início do programa e uma música de fundo que é tocada ao longo de toda a explanação. Ambas as músicas foram retiradas do YOUTUBE, sendo composições livres de direitos autorais.
 
 
-## 🛠️ Instruções de execução
+## 🚀 Resultados
+O podcast ficou ótimo, atendendo às expectativas e exigências do público-alvo. Seria maravilhoso continuar com o projeto e produzir mais episódios poéticos. Entretanto, para tal, tenho ressalvas quanto ao uso das gerações de vozes, pois em alguns momentos, como na leitura da poesia, a voz soa artificial, de fato.
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 💭 Reflexão
+A atividade foi bem agradável, porém desafiadora. Como mencionado acima, as vozes disponíveis para uso no ELEVENLABS soam, por vezes, artificiais, rompendo com o “encanto’’ artístico.
