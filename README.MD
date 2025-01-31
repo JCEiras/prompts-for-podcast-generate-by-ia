@@ -20,4 +20,4 @@ Após a geração das vozes (da apresentadora do podcast e da leitora do manifes
 O podcast ficou ótimo, atendendo às expectativas e exigências do público-alvo. Seria maravilhoso continuar com o projeto e produzir mais episódios poéticos. Entretanto, para tal, tenho ressalvas quanto ao uso das gerações de vozes, pois em alguns momentos, como na leitura da poesia, a voz soa artificial, de fato.
 
 ## 💭 Reflexão
-A atividade foi bem agradável, porém desafiadora. Como mencionado acima, as vozes disponíveis para uso no ELEVENLABS soam, por vezes, artificiais, rompendo com o “encanto’’ artístico.
+A atividade foi bem agradável, porém desafiadora. Como mencionado acima, as vozes disponíveis para uso no ELEVENLABS soam, por vezes, artificiais (tal qual realmente são), rompendo com o “encanto artístico”.
